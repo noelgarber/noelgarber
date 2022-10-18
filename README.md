@@ -14,9 +14,9 @@ In general, I'm skilled in developing with Python for data science applications 
 I'm always interested in collaborating on interesting bioinformatics projects, with a special focus on therapeutics development - please feel free to reach out! 
 
 I can be reached at: 
-   Phone: +1 (9O5) 517-7867
-   Email (work): noel [dot] garber [at] sick kids [dot] ca
-   Email (personal): ngarber 93 [at] g mail [dot] com
+   - Phone: +1 (9O5) 517-7867
+   - Email (work): noel [dot] garber [at] sick kids [dot] ca
+   - Email (personal): ngarber 93 [at] g mail [dot] com
 
 As I wrap up my PhD, I'm also very interested in full time opportunities, and would welcome discussions with interested parties. Cheers!
 
