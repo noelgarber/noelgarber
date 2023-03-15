@@ -1,4 +1,4 @@
-Hello! I'm Noel Garber a PhD student in the Department of Biochemistry at the University of Toronto, slated to graduate in 2023. 
+Hello! I'm Noel Garber, a PhD student in the Department of Biochemistry at the University of Toronto, slated to graduate in 2023. 
 
 I develop analytical methods and write bioinformatics programs in Python as part of my work in studying protein-protein interactions. Some of my interests include, but are not limited to: 
 
